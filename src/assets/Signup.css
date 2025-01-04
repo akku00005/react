@@ -1,0 +1,13 @@
+.signup{
+ 
+    color: white;
+    display: grid;
+    margin-left: 600px;
+}
+h1{
+    margin-left: 20px;
+    color: rgb(195, 4, 4);
+}
+button{
+    margin-bottom: 20px ;
+}
